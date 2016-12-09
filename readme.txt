@@ -8,4 +8,4 @@ checkout add后
 用到了远程仓库github并和github上的git_test关联
 使用feature分支
 快速Fast forward强制禁用
-工作了一半；
+工作了一半；还是工作一半;工作完成
