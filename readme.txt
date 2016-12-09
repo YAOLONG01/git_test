@@ -5,3 +5,4 @@ angularjs an highcharts
 尝试git的版本回退功能
 学习git撤销修改
 checkout add后
+用到了远程仓库github并和github上的git_test关联
