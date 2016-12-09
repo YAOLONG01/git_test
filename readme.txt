@@ -4,3 +4,4 @@ angularjs an highcharts
 从开源中国获得
 尝试git的版本回退功能
 学习git撤销修改
+checkout add后
