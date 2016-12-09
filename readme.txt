@@ -6,4 +6,4 @@ angularjs an highcharts
 学习git撤销修改
 checkout add后
 用到了远程仓库github并和github上的git_test关联
-冲突问题
+使用feature分支解决分支冲突
