@@ -7,3 +7,5 @@ angularjs an highcharts
 checkout add,修改了bug
 用到了远程仓库github并和github上的git_test关联
 使用feature分支解决分支冲突
+快速Fast forward强制禁用
+工作了一半；还是工作一半;工作完成
